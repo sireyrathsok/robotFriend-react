@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sireyrathsok/robotFriend-react/static/css/main.a4a0c9e6.css",
+    "main.js": "/sireyrathsok/robotFriend-react/static/js/main.91f63a8c.js",
+    "static/js/787.c36c8087.chunk.js": "/sireyrathsok/robotFriend-react/static/js/787.c36c8087.chunk.js",
+    "static/media/SEGA.woff": "/sireyrathsok/robotFriend-react/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/sireyrathsok/robotFriend-react/index.html",
+    "main.a4a0c9e6.css.map": "/sireyrathsok/robotFriend-react/static/css/main.a4a0c9e6.css.map",
+    "main.91f63a8c.js.map": "/sireyrathsok/robotFriend-react/static/js/main.91f63a8c.js.map",
+    "787.c36c8087.chunk.js.map": "/sireyrathsok/robotFriend-react/static/js/787.c36c8087.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a0c9e6.css",
+    "static/js/main.91f63a8c.js"
+  ]
+}
